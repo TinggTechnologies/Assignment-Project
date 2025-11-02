@@ -1,6 +1,6 @@
 <h2> 🏦 Bank Application</h2>
 
-<p> This bank application showcases the OOP paradigms which are **Encapsulation**, **Abstraction**, **Inheritance**, and **Polymorphism**. </p>
+<p> This bank application showcases the OOP paradigms which are <b>Encapsulation</b>, <b>Abstraction</b>, <b>Inheritance</b>, and <b>Polymorphism</b>. </p>
 
 ## Student Details
 
