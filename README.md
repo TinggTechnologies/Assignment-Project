@@ -10,9 +10,7 @@ APPLICATION NUMBER: PG202441009709 </p>
 
 ## Screenshot
 
-<p align="center">
   ![Logo](images/image1.png)
-</p>
 
 
 ## Features
