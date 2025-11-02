@@ -6,6 +6,7 @@
 
 <p>NAME: NDUNCHE JOSEPH CHIZARAM</p>
 <p>APPLICATION NUMBER: PG202441009709 </p>
+<p>Course Code: CSC 825</p>
 
 
 ## Screenshot
